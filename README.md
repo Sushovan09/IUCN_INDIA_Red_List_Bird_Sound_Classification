@@ -1,6 +1,17 @@
 # Bird Species Classification
 
-This project focuses on classifying bird species based on audio recordings. It uses various machine learning classifiers to predict the species of a bird from the extracted audio features. The project involves data preprocessing, feature extraction, model training, evaluation, and visualization.
+This project introduces a method for classifying bird species based on their chirping patterns using audio processing and machine learning techniques. It focuses on recognizing bird species listed on the IUCN Red List of India, including Endangered, Critically Endangered, and Vulnerable species. The goal is to explore ecological interdependence and contribute to avian conservation efforts.
+
+The project involves:
+
+- **Data Preprocessing**: Cleaning and preparing audio data for analysis.
+- **Feature Extraction**: Extracting relevant features from bird chirping patterns using audio processing techniques.
+- **Model Training**: Employing various machine learning algorithms including Random Forest, Gradient Boosting, K-Nearest Neighbors (K-NN), Decision Tree, Naive Bayes, Logistic Regression, Multi-layer Perceptron (MLP), and Support Vector Machine (SVM) for classification.
+- **Evaluation**: Assessing the performance of classifiers and analyzing accuracy.
+- **Visualization**: Presenting results through accuracy scores and confusion matrices to demonstrate the potential of machine learning in avian conservation and species monitoring.
+
+The research lays the groundwork for future projects on rare Indian bird species and showcases the potential of acoustic data analysis in ornithology and conservation biology.
+
 
 ## Table of Contents
 
@@ -36,8 +47,8 @@ pip install numpy librosa scikit-learn matplotlib jupyter
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bird-species-classification.git
-cd bird-species-classification
+git clone https://github.com/yourusername/IUCN_INDIA_Red_List_Bird_Sound_Classification.git
+cd IUCN_INDIA_Red_List_Bird_Sound_Classification
 
 ```
 
