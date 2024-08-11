@@ -23,7 +23,7 @@ The research lays the groundwork for future projects on rare Indian bird species
 
 ### Author 2
 **Sayandeep Chatterjee**  
-[Email Address](mailto:ayandeep425@gmail.com)  
+[Email Address](sayandeep425@gmail.com)  
 [GitHub Profile](https://github.com/Sayandeep2000/)
 
 
