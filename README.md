@@ -12,17 +12,21 @@ The project involves:
 
 The research lays the groundwork for future projects on rare Indian bird species and showcases the potential of acoustic data analysis in ornithology and conservation biology.
 
+
+
 ## Authors
 
-### Author 1
+# Author 1
 **Sushovan Pan**  
 [Email Address](mailto:sushovanpan2003@gmail.com)  
 [GitHub Profile](https://github.com/Sushovan09/)
 
-### Author 2
+# Author 2
 **Sayandeep Chatterjee**  
 [Email Address](mailto:ayandeep425@gmail.com)  
 [GitHub Profile](https://github.com/Sayandeep2000/)
+
+
 
 
 ## Table of Contents
