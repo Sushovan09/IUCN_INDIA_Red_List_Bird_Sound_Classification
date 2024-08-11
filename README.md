@@ -1,4 +1,5 @@
-# Bird Species Classification
+# IUCN INDIA Red List Bird Sound Classification
+
 
 This project introduces a method for classifying bird species based on their chirping patterns using audio processing and machine learning techniques. It focuses on recognizing bird species listed on the IUCN Red List of India, including Endangered, Critically Endangered, and Vulnerable species. The goal is to explore ecological interdependence and contribute to avian conservation efforts.
 
